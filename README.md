@@ -27,13 +27,12 @@ O frontend é uma interface de usuário construída com React e TypeScript, que 
 Para começar, clone o repositório da aplicação e navegue até o diretório do backend:
 
 ```bash
-git clone <URL-do-repositório>
 cd santo-app/backend
 ```
 
 ### Instalação das Dependências
 
-Instale as dependências necessárias:
+Instale as dependências necessárias para cada serviço (backend e frontend) executando o seguinte comando dentro dos diretórios correspondentes:
 
 ```bash
 yarn install
