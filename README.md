@@ -1,7 +1,3 @@
-Aqui está uma versão melhorada da documentação para a sua aplicação:
-
----
-
 # Aplicação Santo-App
 
 ## Descrição Geral
