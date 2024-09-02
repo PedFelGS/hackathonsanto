@@ -1,0 +1,85 @@
+body {
+
+}
+
+.create-product-card {
+  display: flex;
+  place-items: center;
+  margin-bottom: 100px;
+}
+
+.create-product-card {
+    display: flex;
+    flex-direction: column;
+  background-color: red;
+  padding: 25px;
+  border-radius: 8px;
+  border: 1px solid #e4e4e7;
+  background: #fff;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+
+.card-header {
+  margin-bottom: 48px;
+}
+
+.card-content {
+
+}
+
+.product-form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.container-line {
+  display: flex;
+  gap: 24px;
+  justify-content: space-around;
+}
+
+.container-block {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.container-line .content-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-form label {
+  margin-bottom: 8px;
+  color: #09090b;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px; /* 100% */
+}
+
+.product-form input {
+  border-radius: 6px;
+  border: 1px solid #e4e4e7;
+  background: #fff;
+  padding: 10px 13px;
+}
+
+.product-form textarea {
+  border-radius: 6px;
+  border: 1px solid #e4e4e7;
+  background: #fff;
+  width: 420px;
+  height: 100px;
+  padding: 10px;
+}
+
+.product-form button {
+  border-radius: 6px;
+  background: #18181b;
+  padding: 11px 15.672px 12px 16px;
+  color: white;
+  cursor: pointer;
+}

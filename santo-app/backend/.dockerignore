@@ -1,0 +1,19 @@
+# Ignora o diretório de cache do yarn
+node_modules
+
+# Ignora arquivos e diretórios de configuração do IDE
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Ignora arquivos temporários e de log
+*.log
+*.tmp
+
+# Ignora arquivos de testes
+test
+tests
+
+# Ignora arquivos de construção
+dist

@@ -1,0 +1,55 @@
+.product-list {
+  margin: 20px;
+}
+
+.list-header {
+  margin-bottom: 20px;
+}
+
+.product-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.product-table th,
+.product-table td {
+  border: 1px solid #e4e4e7;
+  padding: 8px;
+}
+
+.product-table th {
+  background-color: #f4f4f4;
+}
+
+.pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pagination button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.pagination button.active {
+  font-weight: bold;
+}
+
+.pagination button:disabled {
+  background-color: #f4f4f4;
+  cursor: not-allowed;
+}
+
+button {
+  padding: 9px 12.619px 10px 13px;
+  border-radius: 6px;
+  border: 1px solid #e4e4e7;
+  background: #fff;
+}
+
+.btnPUT {
+  display: none;
+}
